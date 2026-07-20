@@ -1071,7 +1071,7 @@ async def set_tutorial(client, message: Message):
     except IndexError:
         return await message.reply_text(
             f"<b>ᴄᴏᴍᴍᴀɴᴅ ɪɴᴄᴏᴍᴘʟᴇᴛᴇ !!\n\nᴜꜱᴇ ʟɪᴋᴇ ᴛʜɪꜱ -</b>\n\n"
-            f"<code>/{message.command[0]} https://t.me/iqbaleditzzz</code>"
+            f"<code>/{message.command[0]} https://t.me/akmovieszz</code>"
         )
     if message.command[0] == "set_tutorial":
         tutorial_key = "tutorial"
