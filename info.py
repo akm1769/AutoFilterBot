@@ -122,8 +122,8 @@ THREE_VERIFY_GAP = int(environ.get('THREE_VERIFY_GAP', "54000"))
 # ============================
 # Channel & Group Links Configuration
 # ============================
-GRP_LNK = environ.get('GRP_LNK', 'https://t.me/novabotszz') # Group link for the bot
-OWNER_LNK = environ.get('OWNER_LNK', 'https://t.me/+4nAbra4ej4s1NWZl') # Owner link for the bot
+GRP_LNK = environ.get('GRP_LNK', 'https://t.me/+V4Jz_GOh9EE3YjM1') # Group link for the bot
+OWNER_LNK = environ.get('OWNER_LNK', '@akm71288') # Owner link for the bot
 UPDATE_CHNL_LNK = environ.get('UPDATE_CHNL_LNK', 'https://t.me/novabothubzz') # Update channel link for the bot
 
 # ============================
